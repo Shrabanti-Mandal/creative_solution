@@ -1,0 +1,24 @@
+.footer-container {
+  background-image: url("https://www.pngkey.com/png/detail/620-6200528_get-in-touch-at-infocoveidentity-footer-background-image.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  color: white;
+}
+.left-box {
+  color: black;
+}
+.right-box {
+  color: black;
+}
+.policy {
+  margin-top: 280px;
+  margin-left: 20px;
+  color: white;
+}
+
+.privacy {
+  margin-top: 300px;
+  margin-left: 100px;
+}
