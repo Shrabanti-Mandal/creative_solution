@@ -1,4 +1,20 @@
-.img {
+.description-img {
   height: 200px;
   width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.description-box {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjFiolYRfLv8MDR3uPr9GJVE0aF0szsP21w&usqp=CAU");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #484554;
+}
+.focus {
+  color: rgb(39, 151, 11);
+}
+.description-heading{
+  color: #A100C6;
 }

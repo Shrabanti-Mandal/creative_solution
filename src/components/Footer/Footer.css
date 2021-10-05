@@ -1,24 +1,13 @@
 .footer-container {
-  background-image: url("https://www.pngkey.com/png/detail/620-6200528_get-in-touch-at-infocoveidentity-footer-background-image.png");
+  background-image: url("https://www.northregionalgas.com.au/wp-content/uploads/2015/07/Footer-Background-2.jpg");
+  margin-bottom: 0px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  height: 500px;
+  height: 200px;
   color: white;
+  opacity: 0.8;
 }
-.left-box {
-  color: black;
-}
-.right-box {
-  color: black;
-}
-.policy {
-  margin-top: 280px;
-  margin-left: 20px;
-  color: white;
-}
-
-.privacy {
-  margin-top: 300px;
-  margin-left: 100px;
+.footer-icon {
+  padding-right: 10px;
 }

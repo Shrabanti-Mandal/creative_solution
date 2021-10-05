@@ -1,0 +1,10 @@
+.service-content {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+}
+.service-container{
+  background-color:rgba(245, 218, 247, 0.171);
+  border: none;
+}

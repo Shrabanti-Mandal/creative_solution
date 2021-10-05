@@ -1,5 +1,8 @@
-/* .card {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-} */
-
+.home-content{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    border: none;
+    padding: 50px;
+}

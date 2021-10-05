@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
-import { Row } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import Courses from "../courses/Courses";
+import "./ServiceContent.css";
 
 const ServiceContent = () => {
   const [courses, setCourses] = useState([]);
@@ -11,11 +12,11 @@ const ServiceContent = () => {
   }, []);
   return (
     <div>
-      <Row xs={2} md={4} className="">
+      <Card className=" service-content container py-5 service-container">
         {courses.map((course) => (
-          <Courses courses={course}></Courses>
+          <Courses courses={course} key={course.id}></Courses>
         ))}
-      </Row>
+      </Card>
     </div>
   );
 };

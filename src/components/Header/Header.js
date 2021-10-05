@@ -4,22 +4,23 @@ import logo from "../../images/logo.jpg";
 
 import Navbar from "../Navbar/Navbar";
 
-
 const Header = () => {
   return (
-    <div className="header-container ">
-      <div className="header d-flex">
-        <div className="logo">
-          <img src={logo} alt="" />
-        </div>
-        <div>
-          <Navbar></Navbar>
-
-          <h1 className="title">New Level Of Your Success</h1>
-        </div>
+    <div className="header">
+      <div>
+        <Navbar></Navbar>
       </div>
 
-    
+      <div>
+        <div className="d-flex justify-content-evenly align-items-center">
+          <div>
+            <img src={logo} alt="" />
+          </div>
+          <div>
+            <h1 className="header-title">New Level Of Your Success <i class="fas fa-check-circle"></i></h1>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

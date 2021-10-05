@@ -1,3 +1,9 @@
-.service {
-  margin-bottom: 1000px;
+.service{
+    background-color: rgba(166, 151, 167, 0.164);
+}
+.service-title{
+    color: purple;
+}
+.service-icon{
+    padding-left: 10px;
 }

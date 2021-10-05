@@ -18,14 +18,14 @@
     "name": "Content Writer",
     "Instructor": "Rebeka Sultana",
     "img": "https://images.anytask.com/resources/user/b4c6dbcb53979236/task/1604638360568_Content-writer-1068x561.jpg",
-    "AboutCourse": "The job of a content writer is to create print and digital content for companies that provides information or showcases the products or services they offer. To develop content that accurately reflects company ideals, content writers often research the material they need to write each article or product description."
+    "AboutCourse": "The job of a content writer is to create digital content for companies that provides information or showcases the products. To develop content that accurately reflects company ideals, content writers often research the material they need to write each article or product description."
   },
   {
     "Id": 4,
     "name": "Mockup Design",
     "Instructor": "Mahmud Hasan",
     "img": "https://gdj-inr5u0ip5pewom.stackpathdns.com/wp-content/uploads/2016/03/free_branding_mockup.jpg",
-    "AboutCourse": "A mockup is a static design of a web page or application that features many of its final design elements but is not functional. A mockup is not as polished as a live page and typically includes some placeholder data. It is useful to breakdown each part of that definition."
+    "AboutCourse": "Mockup is a static design of a web page that features many final design but is not functional. A mockup is not as polished as a live page and typically includes some placeholder data. It is useful to breakdown each part of that definition.mockups are digital photographs designed to show Art in the styled setting. "
   },
   {
     "Id": 5,
@@ -39,13 +39,13 @@
     "name": "UI , UX",
     "Instructor": "shushant joshi",
     "img": "https://www.seekpng.com/png/detail/406-4062993_new-career-option-ui-ux-designer-ui-ux.png",
-    "AboutCourse": "The difference between User Interface (UI) and User Experience (UX) is that UI refers to the aesthetic elements by which people interact with a product, while UX is about the experience a user has with a product or service."
+    "AboutCourse": "The difference between (UI) and (UX) is that UI refers to the aesthetic elements by which people interact with a product,UX is about the experience a user has with a product.The Design of the application improves the user experience that ultimately helps increase the number of users of the specific application."
   },
   {
     "Id": 7,
     "name": "Illustration",
     "Instructor": "Shuvo mahmud",
     "img": "https://media.istockphoto.com/vectors/woman-with-laptop-sitting-in-nature-and-leaves-concept-illustration-vector-id1139913278?k=20&m=1139913278&s=612x612&w=0&h=Ue0Nh74fYCnNd5hfwBCLwJ2VeZqjXxnI5iEXqqTLXb8=",
-    "AboutCourse": "An illustration is a drawing, painting or printed work of art which explains, clarifies, illuminates, visually represents, or merely decorates a written text, which may be of a literary or commercial nature."
+    "AboutCourse": "An illustration is a drawing, painting of art which explains, visually represents,decorates a written text, which may be commercial nature.Illustrations are not only creating visual hierarchy and can support visual division on screen, but they also draw attention to the most important parts of the screen."
   }
 ]

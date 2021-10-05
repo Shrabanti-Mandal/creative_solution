@@ -1,5 +1,23 @@
-.img {
+.meeting-img {
   height: 200px;
   width: 300px;
-  
+}
+.contact-info {
+  background-color: #f3ecff;
+}
+.contact-icon {
+  margin-right: 15px;
+  color: rgb(44, 155, 224);
+}
+.contact-information {
+  color: #508072;
+}
+.contact-header {
+  color: #ff6471;
+}
+.meeting-heading{
+  color: #007B59;
+}
+.meeting-description{
+  color: #954C00;
 }

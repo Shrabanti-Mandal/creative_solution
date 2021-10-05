@@ -3,14 +3,14 @@
       "Id": 1,
       "name": "Web design",
       "Instructor": "Abir Ahmed",
-      "AboutCourse": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. ... A web designer works on the appearance, layout, and, in some cases, content of a website.",
+      "AboutCourse": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development.A web designer works on the appearance, layout, and, in some cases, content of a website.",
       "img":"https://rockcontent.com/wp-content/uploads/2021/02/stage-en-what-is-web-design.png"
     },
     {
       "Id": 2,
       "name": "Graphic design",
       "Instructor": "Orpon Chawdhuri",
-      "AboutCourse": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
+      "AboutCourse": "Graphic design is a craft where professionals create visual content to communicate messages.Designers use typography to meet users needs  on the logic of displaying elements in interactive designs, to optimize the user experience.",
       "img":"https://i0.wp.com/www.graphic-design-institute.com/wp-content/uploads/2020/02/the-best-applications-to-learn-as-a-graphics-designer.jpg?fit=1200%2C800&ssl=1"
     },
     {
@@ -24,7 +24,7 @@
       "Id": 4,
       "name": "Digital Marketing",
       "Instructor": "Shuvo Ahmed",
-      "AboutCourse": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.",
+      "AboutCourse": "Digital marketing is the promotion of brands to connect with potential customers using the internet, social media and other forms of digital communication. This includes not only email, and web-based advertising, but also multimedia messages as a marketing channel.",
       "img":"https://licreativetechnologies.com/wp-content/uploads/2020/03/Digital-Marketing.png"
     }
   ]
