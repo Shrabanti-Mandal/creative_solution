@@ -1,6 +1,8 @@
 import React from "react";
 import "./Description.css";
-import a from "../../images/a.jfif";
+import img1 from "../../images/a.jfif";
+import freelancig from "../../images/freelancing.jpg";
+import intern from "../../images/intern.jfif";
 
 const Description = () => {
   return (
@@ -24,7 +26,7 @@ const Description = () => {
           artist creates a brilliant logo.
         </h6>
         <div className=" d-flex justify-content-center p-5">
-          <img className="img" src={a} alt="" />
+          <img className="img" src={img1} alt="" />
         </div>
       </div>
       <div className=" d-flex justify-content-center px-5 focus">
@@ -47,12 +49,9 @@ const Description = () => {
           than $50,000 last year, including about five percent who earned six
           figures.”
         </h6>
+
         <div className=" d-flex justify-content-center px-5">
-          <img
-            className="description-img "
-            src="https://techteek.com/wp-content/uploads/2020/09/top-10-freelancing-websites-in-India.jpg"
-            alt=""
-          />
+          <img className={freelancig} alt="" />
         </div>
       </div>
 
@@ -73,7 +72,7 @@ const Description = () => {
         <div className=" d-flex justify-content-center px-5">
           <img
             className="img"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEjf1X9aflp1dfqMl5IkitYV5iisTZcqipWA&usqp=CAU"
+            src={intern}
             alt=""
           />
         </div>
