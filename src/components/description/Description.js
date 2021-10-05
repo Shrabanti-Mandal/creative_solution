@@ -1,7 +1,7 @@
 import React from "react";
 import "./Description.css";
 import img1 from "../../images/a.jfif";
-import freelancig from "../../images/freelancing.jpg";
+import freelancing from "../../images/freelancing.jpg";
 import intern from "../../images/intern.jfif";
 
 const Description = () => {
@@ -26,7 +26,7 @@ const Description = () => {
           artist creates a brilliant logo.
         </h6>
         <div className=" d-flex justify-content-center p-5">
-          <img className="img" src={img1} alt="" />
+          <img className="description-img" src={img1} alt="" />
         </div>
       </div>
       <div className=" d-flex justify-content-center px-5 focus">
@@ -50,9 +50,10 @@ const Description = () => {
           figures.”
         </h6>
 
-        <div className=" d-flex justify-content-center px-5">
-          <img className={freelancig} alt="" />
+        <div className=" d-flex justify-content-center p-5">
+          <img className="description-img" src={freelancing} alt="" />
         </div>
+        
       </div>
 
       <div className="py-4">
@@ -70,11 +71,7 @@ const Description = () => {
           a summer break.
         </h6>
         <div className=" d-flex justify-content-center px-5">
-          <img
-            className="img"
-            src={intern}
-            alt=""
-          />
+          <img className="description-img" src={intern} alt="" />
         </div>
       </div>
     </div>
